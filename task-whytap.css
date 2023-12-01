@@ -1,0 +1,228 @@
+.continer{
+    /* background-color: rgb(29, 1, 29); */
+    color: white;
+    background: linear-gradient(rgb(48, 2, 48),80%,rgb(97, 16, 97));
+}
+.parent{
+    display: flex;
+    /* padding: 20px; */
+    justify-content: space-around;
+}
+.li a{
+    text-decoration: none;
+    color: white;
+}
+.nav,ul,.li{
+    display: inline;
+    word-spacing: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3{
+    /* margin-left: 80%; */
+    margin-top: -5%;
+}
+.mentor img{
+    width: 550px;
+    height: 450px;  
+}
+.mentor{
+    margin-left: 60%;
+    margin-top: -30%;
+}
+.tap{
+    width: 150px;
+    /* margin-top: 1%;
+    margin-left: 1%; */
+}
+.nav{
+    width:800px;
+    margin-top: 2%;
+}
+.button1{
+    margin-top: 15%;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    background-color: gold;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+.certification{
+    margin-left: 3%;
+}
+.points,.ul1,.li1{
+    display: inline;
+    word-spacing: 10px;
+    font-size: 15px;
+}
+.points{
+    margin-left: -30px;
+    border: 1px solid black;
+    background-color: rgb(240, 232, 227); 
+    padding: 10px;
+    color: rgb(5, 0, 5);   
+}
+.p3{
+    width: 600px;
+}
+.p2{
+    color: yellow;
+    font-size: 35px;
+}
+.button2{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    background-color: rgb(187, 186, 180);
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 40px;
+    border-color: brown;
+}
+.button3{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;   
+}
+.bardiv{
+    padding: 20px 20px 20px 20px;
+    margin-left: 8%;
+}
+.barbutton{
+    padding: 20px;
+    border-radius: 5%;
+    width: 250px;
+    height: 100px;
+    border: none;
+    background-color: rgb(173, 228, 228);
+}
+.highlights{
+    color: white;
+    background: linear-gradient(rgb(51, 1, 51),black,rgb(58, 2, 58));
+}
+.high{
+    width: 130px;
+    height: 150px;
+    margin: 15px;
+    margin-left: 30px;
+    border-radius: 5% 5% 5% 5%;
+}
+.highlights{
+    padding: 20px 20px;
+}
+.formdiv{
+    margin-left: 65%;
+    border: 2px solid rgb(247, 243, 243);
+    width: 350px;
+    height: 500px;
+    padding-left: 30px;
+    background-color: rgb(117, 3, 3);
+    margin-top: -30%;
+    background: linear-gradient(rgb(121, 3, 3),75%,rgb(235, 245, 235));
+    border: none;
+}
+.form{
+    /* margin-left: 80px; */
+    padding: 10px;
+    margin: 10px;
+}
+.submit{
+    margin-left: 25%;
+    margin-top: 2%;
+    width: 150px;
+    height: 50px;
+    letter-spacing: 1px;
+}
+.overpara{
+    word-spacing: 3px;
+    padding: 0px 30px;
+    line-height: 25px;
+}
+.syllabuspara{
+    word-spacing: 3px;
+    padding: 0px 30px;
+    line-height: 25px;
+}
+.syllab{
+    background-color: rgb(140, 142, 143);
+}
+.point{
+    border: 1px solid black;
+    margin: 30px;
+    background-color: white;
+    border-radius: 15px;
+}
+.pathpoint{
+    border: 1px solid black;
+    padding: 20px 20px;
+    margin: 45px;
+    border-radius: 5px;
+}
+.path h2{
+    margin-left: 30px;
+}
+.tools{
+    color: line;
+}
+.languages{
+    width: 700px;
+    height: 450px;
+}
+.adpro{
+    margin-left: 5%;
+}
+.adpro a{
+    text-decoration: none;
+    color: black;
+}
+.proimg{
+    width: 800px;
+    margin-left: 20%;
+}
+.pcp{
+    width: 500px;
+    height: 200px;
+    padding: 40px 40px;
+    word-spacing: 4px;
+    line-height: 25px;
+    margin-top: 7%;
+    /* margin-left: 5%; */
+}
+.procer{
+    display: flex;
+    background-color: rgb(117, 118, 119);
+}
+.certifi{
+    margin-left: 10%;
+}
+.certifi img{
+    width: 550px;
+    height: 400px;
+}
+.lastdiv{
+    border: 2px solid black;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(36, 3, 36);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px 100px;
+    padding: 10px;
+}
+.lastdiv h1{
+    font-size: 30px;
+}
+.h12{
+    color: yellow;
+}
+.lastdiv button{
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(245, 245, 12);
+}
+
